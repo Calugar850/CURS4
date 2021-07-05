@@ -1,0 +1,44 @@
+[
+  {
+    "position": "1",
+    "name": "FC CFR 1907 CLUJ",
+    "games": "10",
+    "goals": "10",
+    "points": "54"
+  },
+  {
+    "position": "2",
+    "name": "FC FCSB",
+    "games": "10",
+    "goals": "-1",
+    "points": "45"
+  },
+  {
+    "position": "3",
+    "name": "UNIVERSITATEA CRAIOVA",
+    "games": "10",
+    "goals": "-2",
+    "points": "41"
+  },
+  {
+    "position": "4",
+    "name": "SEPSI OSK",
+    "games": "10",
+    "goals": "3",
+    "points": "40"
+  },
+  {
+    "position": "5",
+    "name": "ACADEMICA CLINCENI",
+    "games": "10",
+    "goals": "-5",
+    "points": "33"
+  },
+  {
+    "position": "6",
+    "name": "FC BOTOSANI",
+    "games": "10",
+    "goals": "-5",
+    "points": "31"
+  }
+]
